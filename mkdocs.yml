@@ -1,3 +1,7 @@
 site_name: Tiana Docs
 theme:
   name: material
+  features:
+    - navigation.tabs
+    - navigation.tabs.sticky
+    - content.code.copy
